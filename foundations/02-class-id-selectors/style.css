@@ -1,0 +1,20 @@
+.obi {
+  background-color: #ffb6c1;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  font-size: 24px;
+}
+
+.obi.master {
+  font-size: 24px;
+}
+
+#wan {
+  color: blue;
+  font-size: 36px;
+}
+
+#kenobi {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
