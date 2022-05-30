@@ -1,0 +1,14 @@
+.darth,
+.vader {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.darth {
+    background-color: black;
+    color: white;
+}
+
+.vader {
+    background-color: yellow;
+}
